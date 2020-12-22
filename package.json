@@ -1,0 +1,9 @@
+{
+  "author": "Qiannan Lu",
+  "version": "0.0.1",
+  "description": "Bifrost JS client for crossing chain transactions implementation for IOST.",
+  "license": "GPLv3",
+  "dependencies": {
+    "@polkadot/api": "^3.1.1"
+  }
+}
